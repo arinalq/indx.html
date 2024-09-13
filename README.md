@@ -1,1 +1,1 @@
-# indx.i
+# indx.thml
